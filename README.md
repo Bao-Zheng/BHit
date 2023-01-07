@@ -1,2 +1,7 @@
 # BHit
-A Pressure Testing Tool
+### A Poressure Testing Tool
+
+## Usage
+```python
+python bhit.py
+```
